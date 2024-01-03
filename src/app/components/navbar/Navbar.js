@@ -8,7 +8,7 @@ export default function Navbar() {
          <div className="navbar">
         <div className="navbar-container">
             <div className="logo-container">
-                <h1 className="logo">MovieFlow</h1>
+                <h1 className="logo">MovieFlow web</h1>
             </div>
             <div className="menu-container">
                 <ul className="menu-list">
